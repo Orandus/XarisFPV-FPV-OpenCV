@@ -131,4 +131,5 @@ dmypy.json
 # custom
 videos/
 output/*.mp4
-../.idea
+../.idea/
+.idea/
